@@ -1,0 +1,11 @@
+/Users/owner/Projects/PersonalDictionary/PersonalDictionary/bin/Debug/netcoreapp2.1/PersonalDictionary.deps.json
+/Users/owner/Projects/PersonalDictionary/PersonalDictionary/bin/Debug/netcoreapp2.1/PersonalDictionary.runtimeconfig.json
+/Users/owner/Projects/PersonalDictionary/PersonalDictionary/bin/Debug/netcoreapp2.1/PersonalDictionary.runtimeconfig.dev.json
+/Users/owner/Projects/PersonalDictionary/PersonalDictionary/bin/Debug/netcoreapp2.1/PersonalDictionary.dll
+/Users/owner/Projects/PersonalDictionary/PersonalDictionary/bin/Debug/netcoreapp2.1/PersonalDictionary.pdb
+/Users/owner/Projects/PersonalDictionary/PersonalDictionary/obj/Debug/netcoreapp2.1/PersonalDictionary.csprojAssemblyReference.cache
+/Users/owner/Projects/PersonalDictionary/PersonalDictionary/obj/Debug/netcoreapp2.1/PersonalDictionary.csproj.CoreCompileInputs.cache
+/Users/owner/Projects/PersonalDictionary/PersonalDictionary/obj/Debug/netcoreapp2.1/PersonalDictionary.AssemblyInfoInputs.cache
+/Users/owner/Projects/PersonalDictionary/PersonalDictionary/obj/Debug/netcoreapp2.1/PersonalDictionary.AssemblyInfo.cs
+/Users/owner/Projects/PersonalDictionary/PersonalDictionary/obj/Debug/netcoreapp2.1/PersonalDictionary.dll
+/Users/owner/Projects/PersonalDictionary/PersonalDictionary/obj/Debug/netcoreapp2.1/PersonalDictionary.pdb
